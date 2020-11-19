@@ -1,0 +1,20 @@
+
+* { margin: 0; padding: 0; }
+html, body {
+    
+    height: 100%;
+    font-family: 'Goldman', cursive;
+    font-size: 17vh;
+    margin-top: -8.5vh;
+    
+    
+  }
+  
+  #clock {
+    text-align: center;
+    position: relative;
+    top: 50%;
+  }
+
+
+ 
